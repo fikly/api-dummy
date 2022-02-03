@@ -1,10 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "melon-request-otp": {
+    "message": "Success request OTP",
+    "data": {
+      "transaction_type": "transaction",
+      "order_id": "2437530",
+      "subs_id": "SUBS884LtWZEI7fVhHYP2TicAeoPzQJjFyqR3B2w",
+      "otp": "1852"
+    },
+    "code": 200,
+    "metta": {},
+    "success": true
+  },
   "profile": {
     "name": "typicode"
   }
