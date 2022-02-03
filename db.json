@@ -11,7 +11,28 @@
     "metta": {},
     "success": true
   },
-  "profile": {
-    "name": "typicode"
+  "melon-validate-otp": {
+    "message": "Success validate OTP",
+    "data": {
+      "result": "OK",
+      "subs_id": "SUBS884LtWZEI7fVhHYP2TicAeoPzQJjFyqR3B2w",
+      "trx_id": "2437530",
+      "response": {
+        "status": 200
+      }
+    },
+    "code": 200,
+    "metta": {},
+    "success": true
+  },
+  "melon-check-status": {
+    "message": "Success Check Status Transaction",
+    "data": {
+      "result": "OK",
+      "trx_id": "2437530"
+    },
+    "code": 200,
+    "metta": {},
+    "success": true
   }
 }
